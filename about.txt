@@ -1,0 +1,43 @@
+Author: Sharnam Dhakhwa
+Londen met ID: 20049037
+level: C13
+password:SDhakz
+linux packages installed: (figlet, boxes, lolcat, jp2a)
+
+-Program description: ( This program is a simple game of guessing the author's best band and also give information 
+				of the band and some of the band members"
+
+-The program accepts 2 arguements at first which is the (username ID)
+
+-Then the user is prompted with inputting the password(test123) where the user will have 3 tries or the program terminates
+
+-When the user successfully enters the user lands on the menu page where they have to type a number (1-3)
+1: Play
+2: About
+3: Exit
+
+-After the user press 1 the game begins and the user has to guess the band and type the code adjacent to it.
+AD: AC/DC
+BE: Beatles
+BLO: Blondie
+NIR: Nirvana
+QUE: Queen
+
+-The user will have multiple chances to type in the correct band
+
+-Then after successfully picking the correct band the use is sent to the next stage
+
+-At the next stage the user will have to pick 3 codes adjacent to the members Example (JL FM AY)
+JL: John Lenon
+FM: Freddie Mercury
+AY: Agnus Young
+DH: Debbie Harry
+KC: Kurt Cobain
+
+-3 of the members have data in it.
+
+-Then the 3 codes are again shown to the user and the user has to pick 1 of them to see data (if data exists)
+
+-If no data user is taken to the Band choosing stage again 
+
+-If data exists the user is shown the data and then the user will have the option to restart the game or terminate it.
